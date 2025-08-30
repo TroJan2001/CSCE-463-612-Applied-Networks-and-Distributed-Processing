@@ -38,7 +38,6 @@ Extend Part 1 to process a file of URLs, still single-threaded.
 - Logs detailed trace per site
 
 🧠 **Key Concepts:**
-- File I/O and deduplication via `std::set`
 - HEAD requests and polite crawling
 - Error handling, memory efficiency
 
