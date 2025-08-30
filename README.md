@@ -63,7 +63,7 @@ markdown
 Copy code
 
 🧠 **Key Concepts:**
-- Thread synchronization (`CRITICAL_SECTION`)
+- Thread synchronization (`std::mutex`)
 - Producer-consumer model
 - Non-thread-safe parser isolation
 - Optional: chunked transfer decoding
