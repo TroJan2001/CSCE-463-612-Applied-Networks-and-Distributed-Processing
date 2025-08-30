@@ -1,0 +1,51 @@
+﻿  SenderSocket.cpp
+C:\Users\noorlutfe\Desktop\Hw3P3 - with extra part\Hw3P3\SenderSocket.cpp(7,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/SenderSocket.cpp')
+  
+C:\Users\noorlutfe\Desktop\Hw3P3 - with extra part\Hw3P3\SenderSocket.cpp(8,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/SenderSocket.cpp')
+  
+C:\Users\noorlutfe\Desktop\Hw3P3 - with extra part\Hw3P3\SenderSocket.cpp(9,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/SenderSocket.cpp')
+  
+C:\Users\noorlutfe\Desktop\Hw3P3 - with extra part\Hw3P3\SenderSocket.cpp(28,27): warning C4244: '=': conversion from 'float' to 'clock_t', possible loss of data
+  (compiling source file '/SenderSocket.cpp')
+  
+C:\Users\noorlutfe\Desktop\Hw3P3 - with extra part\Hw3P3\SenderSocket.cpp(62,30): warning C4244: '=': conversion from 'float' to 'clock_t', possible loss of data
+  (compiling source file '/SenderSocket.cpp')
+  
+C:\Users\noorlutfe\Desktop\Hw3P3 - with extra part\Hw3P3\SenderSocket.cpp(87,31): warning C4244: '=': conversion from 'float' to 'clock_t', possible loss of data
+  (compiling source file '/SenderSocket.cpp')
+  
+C:\Users\noorlutfe\Desktop\Hw3P3 - with extra part\Hw3P3\SenderSocket.cpp(118,19): warning C4018: '>': signed/unsigned mismatch
+  (compiling source file '/SenderSocket.cpp')
+  
+C:\Users\noorlutfe\Desktop\Hw3P3 - with extra part\Hw3P3\SenderSocket.cpp(127,28): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file '/SenderSocket.cpp')
+  
+C:\Users\noorlutfe\Desktop\Hw3P3 - with extra part\Hw3P3\SenderSocket.cpp(134,31): warning C4244: '=': conversion from 'float' to 'clock_t', possible loss of data
+  (compiling source file '/SenderSocket.cpp')
+  
+C:\Users\noorlutfe\Desktop\Hw3P3 - with extra part\Hw3P3\SenderSocket.cpp(153,37): warning C4244: '=': conversion from 'float' to 'clock_t', possible loss of data
+  (compiling source file '/SenderSocket.cpp')
+  
+C:\Users\noorlutfe\Desktop\Hw3P3 - with extra part\Hw3P3\SenderSocket.cpp(258,20): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+  (compiling source file '/SenderSocket.cpp')
+  
+C:\Users\noorlutfe\Desktop\Hw3P3 - with extra part\Hw3P3\SenderSocket.cpp(259,20): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+  (compiling source file '/SenderSocket.cpp')
+  
+C:\Users\noorlutfe\Desktop\Hw3P3 - with extra part\Hw3P3\SenderSocket.cpp(304,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/SenderSocket.cpp')
+  
+C:\Users\noorlutfe\Desktop\Hw3P3 - with extra part\Hw3P3\SenderSocket.cpp(356,9): warning C4101: 'fd': unreferenced local variable
+  (compiling source file '/SenderSocket.cpp')
+  
+C:\Users\noorlutfe\Desktop\Hw3P3 - with extra part\Hw3P3\SenderSocket.cpp(357,10): warning C4101: 'start': unreferenced local variable
+  (compiling source file '/SenderSocket.cpp')
+  
+C:\Users\noorlutfe\Desktop\Hw3P3 - with extra part\Hw3P3\SenderSocket.cpp(355,10): warning C4101: 'tp': unreferenced local variable
+  (compiling source file '/SenderSocket.cpp')
+  
+  LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
+  Hw3P3.vcxproj -> C:\Users\noorlutfe\Desktop\Hw3P3 - with extra part\x64\Release\Hw3P3.exe

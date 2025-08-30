@@ -1,0 +1,8 @@
+﻿  Hw4.cpp
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw4\Hw4\Hw4\Hw4.cpp(86,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/Hw4.cpp')
+  
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw4\Hw4\Hw4\Hw4.cpp(138,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file '/Hw4.cpp')
+  
+  Hw4.vcxproj -> E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw4\Hw4\x64\Debug\Hw4.exe

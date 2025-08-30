@@ -1,0 +1,41 @@
+﻿  Hw1P2.cpp
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw1\Hw1P2\Hw1P2\Hw1P2.cpp(92,60): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/Hw1P2.cpp')
+  
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw1\Hw1P2\Hw1P2\Hw1P2.cpp(108,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/Hw1P2.cpp')
+  
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw1\Hw1P2\Hw1P2\Hw1P2.cpp(120,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/Hw1P2.cpp')
+  
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw1\Hw1P2\Hw1P2\Hw1P2.cpp(135,31): warning C4244: 'argument': conversion from 'SOCKET' to 'int', possible loss of data
+  (compiling source file '/Hw1P2.cpp')
+  
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw1\Hw1P2\Hw1P2\Hw1P2.cpp(231,40): warning C4101: 'e': unreferenced local variable
+  (compiling source file '/Hw1P2.cpp')
+  
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw1\Hw1P2\Hw1P2\Hw1P2.cpp(290,60): warning C4307: '*': signed integral constant overflow
+  (compiling source file '/Hw1P2.cpp')
+  
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw1\Hw1P2\Hw1P2\Hw1P2.cpp(317,104): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/Hw1P2.cpp')
+  
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw1\Hw1P2\Hw1P2\Hw1P2.cpp(317,71): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/Hw1P2.cpp')
+  
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw1\Hw1P2\Hw1P2\Hw1P2.cpp(489,140): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/Hw1P2.cpp')
+  
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw1\Hw1P2\Hw1P2\Hw1P2.cpp(489,99): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/Hw1P2.cpp')
+  
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 49 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+HTMLParser_release_x64.lib(HTMLParserBase.obj) : warning LNK4099: PDB '' was not found with 'HTMLParser_release_x64.lib(HTMLParserBase.obj)' or at ''; linking object as if no debug info
+HTMLParser_release_x64.lib(stdafx.obj) : warning LNK4099: PDB '' was not found with 'HTMLParser_release_x64.lib(stdafx.obj)' or at ''; linking object as if no debug info
+HTMLParser_release_x64.lib(IRLparser.obj) : warning LNK4099: PDB '' was not found with 'HTMLParser_release_x64.lib(IRLparser.obj)' or at ''; linking object as if no debug info
+HTMLParser_release_x64.lib(IRLBuffer.obj) : warning LNK4099: PDB '' was not found with 'HTMLParser_release_x64.lib(IRLBuffer.obj)' or at ''; linking object as if no debug info
+HTMLParser_release_x64.lib(URL.obj) : warning LNK4099: PDB '' was not found with 'HTMLParser_release_x64.lib(URL.obj)' or at ''; linking object as if no debug info
+  Hw1P2.vcxproj -> E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw1\Hw1P2\x64\Release\Hw1P2.exe

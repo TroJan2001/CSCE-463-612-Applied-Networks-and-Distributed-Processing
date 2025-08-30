@@ -1,0 +1,29 @@
+﻿  SenderSocket.cpp
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw3\Hw3P3\Hw3P3\Hw3P3\SenderSocket.cpp(7,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/SenderSocket.cpp')
+  
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw3\Hw3P3\Hw3P3\Hw3P3\SenderSocket.cpp(8,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/SenderSocket.cpp')
+  
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw3\Hw3P3\Hw3P3\Hw3P3\SenderSocket.cpp(9,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/SenderSocket.cpp')
+  
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw3\Hw3P3\Hw3P3\Hw3P3\SenderSocket.cpp(103,20): warning C4018: '>': signed/unsigned mismatch
+  (compiling source file '/SenderSocket.cpp')
+  
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw3\Hw3P3\Hw3P3\Hw3P3\SenderSocket.cpp(109,29): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file '/SenderSocket.cpp')
+  
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw3\Hw3P3\Hw3P3\Hw3P3\SenderSocket.cpp(261,20): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+  (compiling source file '/SenderSocket.cpp')
+  
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw3\Hw3P3\Hw3P3\Hw3P3\SenderSocket.cpp(262,20): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+  (compiling source file '/SenderSocket.cpp')
+  
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw3\Hw3P3\Hw3P3\Hw3P3\SenderSocket.cpp(307,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/SenderSocket.cpp')
+  
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw3\Hw3P3\Hw3P3\Hw3P3\SenderSocket.cpp(364,20): warning C4244: '=': conversion from 'float' to 'long', possible loss of data
+  (compiling source file '/SenderSocket.cpp')
+  
+  Hw3P3.vcxproj -> E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw3\Hw3P3\Hw3P3\x64\Debug\Hw3P3.exe

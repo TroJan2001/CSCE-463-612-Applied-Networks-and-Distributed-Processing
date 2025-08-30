@@ -1,0 +1,2 @@
+﻿LINK : fatal error C1047: The object or library file 'HTMLParser_release_x64.lib' was created by a different version of the compiler than other objects like 'x64\Release\Hw1P1.obj'; rebuild all objects and libraries with the same compiler
+LINK : fatal error LNK1257: code generation failed

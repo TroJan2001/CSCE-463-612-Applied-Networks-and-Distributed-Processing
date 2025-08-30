@@ -1,0 +1,9 @@
+﻿  Hw1P1.cpp
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw1\Hw1P1\Hw1P1\Hw1P1.cpp(75,60): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw1\Hw1P1\Hw1P1\Hw1P1.cpp(90,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw1\Hw1P1\Hw1P1\Hw1P1.cpp(103,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw1\Hw1P1\Hw1P1\Hw1P1.cpp(114,31): warning C4244: 'argument': conversion from 'SOCKET' to 'int', possible loss of data
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw1\Hw1P1\Hw1P1\Hw1P1.cpp(193,40): warning C4101: 'e': unreferenced local variable
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw1\Hw1P1\Hw1P1\Hw1P1.cpp(302,100): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw1\Hw1P1\Hw1P1\Hw1P1.cpp(302,67): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Hw1P1.vcxproj -> E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw1\Hw1P1\x64\Debug\Hw1P1.exe

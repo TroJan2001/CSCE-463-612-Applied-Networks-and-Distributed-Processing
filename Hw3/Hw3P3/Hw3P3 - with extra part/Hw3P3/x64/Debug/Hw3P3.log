@@ -1,0 +1,69 @@
+﻿  pch.cpp
+  Checksum.cpp
+  Hw3P3.cpp
+  SenderSocket.cpp
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw3\Hw3P3\Hw3P3 - with extra part\Hw3P3\Hw3P3.cpp(73,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/Hw3P3.cpp')
+  
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw3\Hw3P3\Hw3P3 - with extra part\Hw3P3\Hw3P3.cpp(74,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/Hw3P3.cpp')
+  
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw3\Hw3P3\Hw3P3 - with extra part\Hw3P3\Hw3P3.cpp(75,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/Hw3P3.cpp')
+  
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw3\Hw3P3\Hw3P3 - with extra part\Hw3P3\Hw3P3.cpp(76,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/Hw3P3.cpp')
+  
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw3\Hw3P3\Hw3P3 - with extra part\Hw3P3\Hw3P3.cpp(122,46): warning C4244: 'argument': conversion from 'UINT64' to 'int', possible loss of data
+  (compiling source file '/Hw3P3.cpp')
+  
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw3\Hw3P3\Hw3P3 - with extra part\Hw3P3\SenderSocket.cpp(7,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/SenderSocket.cpp')
+  
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw3\Hw3P3\Hw3P3 - with extra part\Hw3P3\SenderSocket.cpp(8,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/SenderSocket.cpp')
+  
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw3\Hw3P3\Hw3P3 - with extra part\Hw3P3\SenderSocket.cpp(9,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/SenderSocket.cpp')
+  
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw3\Hw3P3\Hw3P3 - with extra part\Hw3P3\SenderSocket.cpp(28,27): warning C4244: '=': conversion from 'float' to 'clock_t', possible loss of data
+  (compiling source file '/SenderSocket.cpp')
+  
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw3\Hw3P3\Hw3P3 - with extra part\Hw3P3\SenderSocket.cpp(62,30): warning C4244: '=': conversion from 'float' to 'clock_t', possible loss of data
+  (compiling source file '/SenderSocket.cpp')
+  
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw3\Hw3P3\Hw3P3 - with extra part\Hw3P3\SenderSocket.cpp(87,31): warning C4244: '=': conversion from 'float' to 'clock_t', possible loss of data
+  (compiling source file '/SenderSocket.cpp')
+  
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw3\Hw3P3\Hw3P3 - with extra part\Hw3P3\SenderSocket.cpp(118,19): warning C4018: '>': signed/unsigned mismatch
+  (compiling source file '/SenderSocket.cpp')
+  
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw3\Hw3P3\Hw3P3 - with extra part\Hw3P3\SenderSocket.cpp(127,28): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file '/SenderSocket.cpp')
+  
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw3\Hw3P3\Hw3P3 - with extra part\Hw3P3\SenderSocket.cpp(134,31): warning C4244: '=': conversion from 'float' to 'clock_t', possible loss of data
+  (compiling source file '/SenderSocket.cpp')
+  
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw3\Hw3P3\Hw3P3 - with extra part\Hw3P3\SenderSocket.cpp(153,37): warning C4244: '=': conversion from 'float' to 'clock_t', possible loss of data
+  (compiling source file '/SenderSocket.cpp')
+  
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw3\Hw3P3\Hw3P3 - with extra part\Hw3P3\SenderSocket.cpp(258,20): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+  (compiling source file '/SenderSocket.cpp')
+  
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw3\Hw3P3\Hw3P3 - with extra part\Hw3P3\SenderSocket.cpp(259,20): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+  (compiling source file '/SenderSocket.cpp')
+  
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw3\Hw3P3\Hw3P3 - with extra part\Hw3P3\SenderSocket.cpp(304,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/SenderSocket.cpp')
+  
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw3\Hw3P3\Hw3P3 - with extra part\Hw3P3\SenderSocket.cpp(356,9): warning C4101: 'fd': unreferenced local variable
+  (compiling source file '/SenderSocket.cpp')
+  
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw3\Hw3P3\Hw3P3 - with extra part\Hw3P3\SenderSocket.cpp(357,10): warning C4101: 'start': unreferenced local variable
+  (compiling source file '/SenderSocket.cpp')
+  
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw3\Hw3P3\Hw3P3 - with extra part\Hw3P3\SenderSocket.cpp(355,10): warning C4101: 'tp': unreferenced local variable
+  (compiling source file '/SenderSocket.cpp')
+  
+  Generating Code...
+  Hw3P3.vcxproj -> E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw3\Hw3P3\Hw3P3 - with extra part\x64\Debug\Hw3P3.exe

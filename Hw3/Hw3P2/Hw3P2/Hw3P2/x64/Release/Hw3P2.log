@@ -1,0 +1,37 @@
+﻿  SenderSocket.cpp
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw3\Hw3P2\Hw3P2\Hw3P2\SenderSocket.cpp(7,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/SenderSocket.cpp')
+  
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw3\Hw3P2\Hw3P2\Hw3P2\SenderSocket.cpp(8,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/SenderSocket.cpp')
+  
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw3\Hw3P2\Hw3P2\Hw3P2\SenderSocket.cpp(9,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/SenderSocket.cpp')
+  
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw3\Hw3P2\Hw3P2\Hw3P2\SenderSocket.cpp(110,20): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+  (compiling source file '/SenderSocket.cpp')
+  
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw3\Hw3P2\Hw3P2\Hw3P2\SenderSocket.cpp(111,20): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+  (compiling source file '/SenderSocket.cpp')
+  
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw3\Hw3P2\Hw3P2\Hw3P2\SenderSocket.cpp(156,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/SenderSocket.cpp')
+  
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw3\Hw3P2\Hw3P2\Hw3P2\SenderSocket.cpp(198,20): warning C4244: '=': conversion from 'float' to 'long', possible loss of data
+  (compiling source file '/SenderSocket.cpp')
+  
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw3\Hw3P2\Hw3P2\Hw3P2\SenderSocket.cpp(276,20): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+  (compiling source file '/SenderSocket.cpp')
+  
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw3\Hw3P2\Hw3P2\Hw3P2\SenderSocket.cpp(277,20): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+  (compiling source file '/SenderSocket.cpp')
+  
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw3\Hw3P2\Hw3P2\Hw3P2\SenderSocket.cpp(322,18): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file '/SenderSocket.cpp')
+  
+  Generating code
+  0 of 24 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Hw3P2.vcxproj -> E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw3\Hw3P2\Hw3P2\x64\Release\Hw3P2.exe

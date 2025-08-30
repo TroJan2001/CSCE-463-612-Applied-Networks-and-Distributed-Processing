@@ -1,0 +1,18 @@
+﻿  pch.cpp
+  Hw1P3.cpp
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw1\Hw1P3\Hw1P3\Hw1P3.cpp(293,25): warning C4244: 'argument': conversion from 'SOCKET' to 'int', possible loss of data
+  (compiling source file '/Hw1P3.cpp')
+  
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw1\Hw1P3\Hw1P3\Hw1P3.cpp(401,34): warning C4101: 'e': unreferenced local variable
+  (compiling source file '/Hw1P3.cpp')
+  
+  Generating code
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 49 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+HTMLParser_release_x64.lib(HTMLParserBase.obj) : warning LNK4099: PDB '' was not found with 'HTMLParser_release_x64.lib(HTMLParserBase.obj)' or at ''; linking object as if no debug info
+HTMLParser_release_x64.lib(stdafx.obj) : warning LNK4099: PDB '' was not found with 'HTMLParser_release_x64.lib(stdafx.obj)' or at ''; linking object as if no debug info
+HTMLParser_release_x64.lib(IRLparser.obj) : warning LNK4099: PDB '' was not found with 'HTMLParser_release_x64.lib(IRLparser.obj)' or at ''; linking object as if no debug info
+HTMLParser_release_x64.lib(IRLBuffer.obj) : warning LNK4099: PDB '' was not found with 'HTMLParser_release_x64.lib(IRLBuffer.obj)' or at ''; linking object as if no debug info
+HTMLParser_release_x64.lib(URL.obj) : warning LNK4099: PDB '' was not found with 'HTMLParser_release_x64.lib(URL.obj)' or at ''; linking object as if no debug info
+  Hw1P3.vcxproj -> E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw1\Hw1P3\x64\Release\Hw1P3.exe

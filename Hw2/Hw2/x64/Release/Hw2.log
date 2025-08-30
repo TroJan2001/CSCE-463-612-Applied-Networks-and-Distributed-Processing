@@ -1,0 +1,42 @@
+﻿  pch.cpp
+  Hw2.cpp
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw2\Hw2\Hw2.cpp(70,28): warning C4244: '=': conversion from '__int64' to 'char', possible loss of data
+  (compiling source file '/Hw2.cpp')
+  
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw2\Hw2\Hw2.cpp(230,31): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  (compiling source file '/Hw2.cpp')
+  
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw2\Hw2\Hw2.cpp(299,31): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  (compiling source file '/Hw2.cpp')
+  
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw2\Hw2\Hw2.cpp(356,31): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  (compiling source file '/Hw2.cpp')
+  
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw2\Hw2\Hw2.cpp(448,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/Hw2.cpp')
+  
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw2\Hw2\Hw2.cpp(476,40): warning C4244: 'argument': conversion from 'SOCKET' to 'int', possible loss of data
+  (compiling source file '/Hw2.cpp')
+  
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw2\Hw2\Hw2.cpp(479,22): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw2\Hw2\Hw2.cpp(479,22): warning C4244:         with
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw2\Hw2\Hw2.cpp(479,22): warning C4244:         [
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw2\Hw2\Hw2.cpp(479,22): warning C4244:             _Rep=__int64
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw2\Hw2\Hw2.cpp(479,22): warning C4244:         ]
+  (compiling source file '/Hw2.cpp')
+  
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw2\Hw2\Hw2.cpp(485,26): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw2\Hw2\Hw2.cpp(485,26): warning C4244:         with
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw2\Hw2\Hw2.cpp(485,26): warning C4244:         [
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw2\Hw2\Hw2.cpp(485,26): warning C4244:             _Rep=__int64
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw2\Hw2\Hw2.cpp(485,26): warning C4244:         ]
+  (compiling source file '/Hw2.cpp')
+  
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw2\Hw2\Hw2.cpp(516,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file '/Hw2.cpp')
+  
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 136 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Hw2.vcxproj -> E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw2\x64\Release\Hw2.exe

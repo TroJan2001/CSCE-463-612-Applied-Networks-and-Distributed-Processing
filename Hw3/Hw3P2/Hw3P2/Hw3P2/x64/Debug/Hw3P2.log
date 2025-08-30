@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  Checksum.cpp
+  Hw3P2.cpp
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw3\Hw3P2\Hw3P2\Hw3P2\Hw3P2.cpp(38,23): warning C4244: '=': conversion from 'UINT64' to 'DWORD', possible loss of data
+  (compiling source file '/Hw3P2.cpp')
+  
+  SenderSocket.cpp
+  Generating Code...
+E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw3\Hw3P2\Hw3P2\Hw3P2\SenderSocket.cpp(132,1): warning C4715: 'SenderSocket::Open': not all control paths return a value
+  Hw3P2.vcxproj -> E:\Noor\TAMU\Study\Networks and Distributed Processing\Hw3\Hw3P2\Hw3P2\x64\Debug\Hw3P2.exe
