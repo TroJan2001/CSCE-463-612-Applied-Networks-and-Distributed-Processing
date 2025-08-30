@@ -76,18 +76,45 @@ Copy code
 🔹 **Purpose:**  
 Implement a full custom DNS client and server from scratch.
 
-🧩 **Features:**
-- Raw UDP socket communication  
-- DNS packet encoding/decoding  
-- Recursive/iterative resolution  
-- CNAME, A-record parsing  
-- Reverse DNS support  
+## 🧩 Features
+- Raw UDP socket communication
+- Manual DNS packet encoding and decoding
+- Recursive resolution via RD flag
+- A, NS, CNAME, and PTR record support
+- Reverse DNS lookup (in-addr.arpa format)
+- Timeout (10s) and up to 3 retry attempts
+- Comprehensive DNS response parser:
+  - Header, Question, Answer, Authority, Additional sections
+- Fully handles:
+  - Name compression (jump pointers)
+  - Multi-section parsing with bounds checking
+  - TTL, class, and record length validation
 
-🧠 **Key Concepts:**
-- DNS protocol (RFC 1034/1035)  
-- Timeout and retry logic  
-- Non-blocking/responsive client-server design
+---
 
+## 🌟 Extra Credit (Implemented ✅)
+- Detects and handles all **9 required** malformed DNS error cases:
+  - Jump loop
+  - Truncated header
+  - Jump into header
+  - Oversized label
+  - Label outside bounds
+  - Name exceeds 255 bytes
+  - Truncated RR
+  - Excessive TTL
+  - Invalid class
+
+Each error is printed with a `++ invalid record:` message.
+
+---
+
+## 🧠 Key Concepts
+- DNS protocol (RFC 1034 / RFC 1035)
+- DNS name compression and pointer dereferencing
+- Socket-level programming with UDP
+- Timeout and retry logic via `select()`
+- Bitwise flag construction and header packing
+- Defensive programming & packet boundary checking
 ---
 
 ## 📦 Homework 3 – Reliable Data Transfer Protocol
