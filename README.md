@@ -215,13 +215,15 @@ Copy code
 
 ## 🗂 Summary Table
 
-| Homework     | Focus                        | Threads          | Key Features                                  |
-|--------------|------------------------------|------------------|-----------------------------------------------|
-| HW1 P1       | HTTP GET client              | 1                | URL parsing, TCP GET, link counting           |
-| HW1 P2       | File-based crawler           | 1                | Robots.txt, limits, trace output              |
-| HW1 P3       | Multi-threaded web crawler   | N + stats        | Producer-consumer, real-time stats            |
-| HW2          | DNS client/server            | Single or async  | DNS packet parsing, resolver logic            |
-| HW3 P1       | rdt 2.1 (stop-and-wait)      | 1                | Sequence, ACK, timeout                        |
-| HW3 P2       | rdt 3.0 with CRC and RTO     | 1 + stats        | CRC-32, RTT estimation                        |
+| Homework   | Focus                         | Threads / Concurrency         | Key Features                                                                 |
+| ---------- | ----------------------------- | ----------------------------- | ---------------------------------------------------------------------------- |
+| **HW1 P1** | HTTP GET client               | 1 (single-threaded)           | URL parsing, TCP GET request, DNS/Connect/Download timing, HTML link parsing |
+| **HW1 P2** | File-based web crawler        | 1 (single-threaded)           | URL deduplication, robots.txt, download limits, trace logging                |
+| **HW1 P3** | Multi-threaded web crawler    | N crawler threads + 1 stats   | Shared queues, real-time stats, polite crawling, link classification         |
+| **HW2**    | DNS client and server         | Single-threaded or async      | A, NS, CNAME, PTR support, UDP sockets, retries, iterative/recursive modes   |
+| **HW3 P1** | rdt 2.1 (stop-and-wait)       | 1 (single-threaded)           | Reliable UDP connect/close only, sequence numbers, simulated loss            |
+| **HW3 P2** | rdt 3.0 with CRC + RTO        | 1 + stats thread              | CRC-32 checks, RTT + RTO estimation, sender with stop-and-wait               |
+| **HW3 P3** | Sliding window protocol (rdt) | 1 main + 1 stats + 1 worker   | Pipelined send, cumulative ACKs, fast retransmit, flow control, queue model  |
+| **HW4**    | Parallel traceroute           | 1 main + async DNS via select | Raw ICMP with TTL, per-hop RTO, DNS lookups, ICMP error handling             |
 | HW3 P3       | Sliding window protocol      | N + stats        | Flow control, fast retransmit                 |
 | HW4          | Parallel traceroute          | Single + DNS opt | Raw ICMP, batch probing, DNS look
