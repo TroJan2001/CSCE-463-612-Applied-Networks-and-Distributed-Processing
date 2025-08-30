@@ -225,5 +225,3 @@ Copy code
 | **HW3 P2** | rdt 3.0 with CRC + RTO        | 1 + stats thread              | CRC-32 checks, RTT + RTO estimation, sender with stop-and-wait               |
 | **HW3 P3** | Sliding window protocol (rdt) | 1 main + 1 stats + 1 worker   | Pipelined send, cumulative ACKs, fast retransmit, flow control, queue model  |
 | **HW4**    | Parallel traceroute           | 1 main + async DNS via select | Raw ICMP with TTL, per-hop RTO, DNS lookups, ICMP error handling             |
-| HW3 P3       | Sliding window protocol      | N + stats        | Flow control, fast retransmit                 |
-| HW4          | Parallel traceroute          | Single + DNS opt | Raw ICMP, batch probing, DNS look
