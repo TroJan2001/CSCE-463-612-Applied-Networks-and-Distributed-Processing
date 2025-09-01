@@ -1,4 +1,4 @@
-# ✅ CSCE 463/612 – Networks and Distributed Processing  
+# ✅ CSCE 463/612 – Applied Networks and Distributed Processing  
 ## 📚 Project Summary: Homework 1–4 (Spring 2025)
 
 This repository contains implementations and documentation for Homework 1 through Homework 4, covering core networking concepts and systems programming techniques using **C++** and **Windows Sockets (Winsock)**. Assignments build from a basic socket-based HTTP client to a multi-threaded web crawler, a reliable transport-layer protocol over UDP, a custom DNS resolver, and a parallel traceroute tool.
